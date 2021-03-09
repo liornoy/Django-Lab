@@ -9,4 +9,4 @@ The tutorials I followed:
 
 [![Python Status](https://github.com/liornoy/Django-Lab/actions/workflows/python-app.yml/badge.svg)](https://github.com/liornoy/Django-Lab/actions/workflows/python-app.yml)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/liornoy/Django-Lab/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/liornoy)
